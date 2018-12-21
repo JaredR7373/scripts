@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Enter repository name:"
+read name
+git clone git@github.com:JaredR7373/$name.git
